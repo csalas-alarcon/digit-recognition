@@ -60,11 +60,11 @@
 
 ## Team
 
-* Alex Johnson
+* José Francisco Hurtado Valero
 * Carlos Salas Alarcón
-* David Smith
-* Laura Martinez
-* Daniel Brown
+* Guillermo Espinosa Ruiz
+* Alicia Maria Frias Gonzalez
+* Pablo Reig Sánchez
 
 ---
 
@@ -81,6 +81,7 @@
    [https://es.mathworks.com/help/deeplearning/ug/create-simple-deep-learning-network-for-classification.html](https://es.mathworks.com/help/deeplearning/ug/create-simple-deep-learning-network-for-classification.html)
 
 4. MathWorks – *Image Recognition in MATLAB*
-   [https://es.mathworks.com/discovery/image-recognition-matlab.html](https://es.mathworks.com/discovery/image-recognition-matlab.html)
+   [https://es.mathworks.com/discovery/image-recognition-matlab.html]
+(https://es.mathworks.com/discovery/image-recognition-matlab.html)
 
 ---
