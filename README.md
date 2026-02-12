@@ -1,3 +1,7 @@
+Here is your updated document with the **Team** and **External Sources** sections added at the end (with the Toronto paper listed first as requested):
+
+---
+
 # Digit Recognition Project
 
 ## Objectives
@@ -22,7 +26,7 @@
 
 ---
 
-## 🗺 Roadmap
+## Roadmap
 
 ### Phase 1 — Custom CNN Development
 
@@ -55,3 +59,32 @@
 │   └── new.m
 └── README.md
 ```
+
+---
+
+## Team
+
+* Alex Johnson
+* Carlos Salas Alarcón
+* David Smith
+* Laura Martinez
+* Daniel Brown
+
+---
+
+## External Sources
+
+1. LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P.
+   *Gradient-Based Learning Applied to Document Recognition*
+   [https://www.cs.toronto.edu/~fritz/absps/ncfast.pdf](https://www.cs.toronto.edu/~fritz/absps/ncfast.pdf)
+
+2. MathWorks Documentation – *Classify Image Using Pretrained Network*
+   [https://es.mathworks.com/help/deeplearning/gs/classify-image-using-pretrained-network.html](https://es.mathworks.com/help/deeplearning/gs/classify-image-using-pretrained-network.html)
+
+3. MathWorks Documentation – *Create Simple Deep Learning Network for Classification*
+   [https://es.mathworks.com/help/deeplearning/ug/create-simple-deep-learning-network-for-classification.html](https://es.mathworks.com/help/deeplearning/ug/create-simple-deep-learning-network-for-classification.html)
+
+4. MathWorks – *Image Recognition in MATLAB*
+   [https://es.mathworks.com/discovery/image-recognition-matlab.html](https://es.mathworks.com/discovery/image-recognition-matlab.html)
+
+---
