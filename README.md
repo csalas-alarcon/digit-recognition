@@ -1,7 +1,3 @@
-Here is your updated document with the **Team** and **External Sources** sections added at the end (with the Toronto paper listed first as requested):
-
----
-
 # Digit Recognition Project
 
 ## Objectives
