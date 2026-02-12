@@ -1,24 +1,49 @@
-# Digit Recognition
+# Digit Recognition Project
 
 ## Objectives
-### First     -> Create and Train a Convolutional Neural Network
-### Second    -> Make a MATLAB program that clasifies images with an already trained CNN
 
-## Tools
-1. - Deep Learning Toolbox
-2. - Image Processing Toolbox
-3. - Existing CNN: GoogLeNet, SqueezeNet, DarkNet53....
-  
-## Roadmap
-1. - Look up and study MATLAB documentation for NN for Classification with Deep Learning
-2. - Implement the code that allows the creation and training of the Network
-3. - Run test and measure program accuracy.
-  
-4. - Document the working of the existing CNN.
-5. - Give support inside MATLAB to the existing CNN
-6. - Test the existing CNN with the given dataset and a new custom one.
-  
-## Structure
+1. **Create and train** a Convolutional Neural Network (CNN).
+2. **Develop a MATLAB application** that classifies images using a pre-trained CNN.
+
+---
+
+## Tools & Technologies
+
+* **MATLAB Toolboxes**
+
+  * Deep Learning Toolbox
+  * Image Processing Toolbox
+
+* **Pre-trained CNN Architectures**
+
+  * GoogLeNet
+  * SqueezeNet
+  * DarkNet-53
+
+---
+
+## 🗺 Roadmap
+
+### Phase 1 — Custom CNN Development
+
+1. Study MATLAB documentation on **Neural Networks for Classification** using Deep Learning.
+2. Implement the code to **create and train** a CNN.
+3. Run tests and **evaluate model accuracy**.
+
+### Phase 2 — Existing CNN Integration
+
+4. Analyze and document the architecture and workflow of the selected pre-trained CNN.
+5. Integrate support for the existing CNN within MATLAB.
+6. Test the pre-trained CNN using:
+
+   * The provided dataset
+   * A custom dataset
+
+---
+
+## Project Structure
+
+```text
 .
 ├── data/
 │   └── DigitsData.rar
@@ -29,3 +54,4 @@
 │   ├── existing.m
 │   └── new.m
 └── README.md
+```
