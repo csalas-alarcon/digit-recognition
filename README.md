@@ -40,6 +40,13 @@
    * A custom dataset
 
 ---
+## How to use GoogleNet prediction function
+One must first install two things:
+1. The deep learning toolboox, at Home > Addons > Explore addons > look for "deep learning toolbox"
+2. The GoogleNet itself. Run the following command on the Matlab terminal and you'll get a hyperlink to automatically install it:
+` imagePretrainedNetwork("googlenet")`
+
+---
 
 ## Project Structure
 
