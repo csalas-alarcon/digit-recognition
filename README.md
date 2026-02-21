@@ -72,6 +72,7 @@ One must first install two things:
 * Guillermo Espinosa Ruiz
 * Alicia Maria Frias Gonzalez
 * Pablo Reig Sánchez
+* José Javier Soler Martínez
 
 ---
 
