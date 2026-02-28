@@ -1,5 +1,3 @@
-Here is **professional-grade Markdown documentation** you can directly place into your project (e.g., `README.md` or technical documentation).
-
 ---
 
 # Handwritten Digit Classification using Convolutional Neural Networks (CNN)
@@ -220,10 +218,3 @@ This implementation provides a compact and effective CNN for multi-class handwri
 The design balances simplicity and performance, making it suitable for academic projects, prototyping, and introductory deep learning applications.
 
 ---
-
-If you would like, I can also generate:
-
-* A UML-style architecture diagram (in Markdown)
-* A model complexity and parameter count breakdown
-* A version formatted for academic publication
-* A more formal IEEE-style technical report format
